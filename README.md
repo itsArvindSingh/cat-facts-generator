@@ -45,7 +45,7 @@ https://catfact.ninja/fact
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cat-facts-generator.git
+git clone https://github.com/itsArvindSingh/cat-facts-generator.git
 ```
 
 2. Open the project folder.
