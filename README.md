@@ -3,12 +3,12 @@
 A simple web application that generates random cat facts using the Cat Facts API. Built with HTML, CSS, and JavaScript, this project demonstrates API fetching, asynchronous JavaScript, DOM manipulation, and error handling.
 
 
-# 🔗 Visit My GitHub Site
+## 🔗 Visit Site
 
-> Click the button below to visit my site
+> Click the button below to visit site
 
 <p align="center">
-  <a href="https://bjlfjbslf.com" target="_blank">
+  <a href="https://itsarvindsingh.github.io/cat-facts-generator/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Visit%20My%20GitHub%20Site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Site">
   </a>
 </p>
